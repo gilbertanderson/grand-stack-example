@@ -1,18 +1,13 @@
 {
-  "name": "github-export-neo4j-graphql-api",
+  "name": "grand-stack-example",
   "version": "1.0.0",
-  "description": "An example GraphQL API for Github data in Neo4j using neo4j-graphql.js and GRANDstack",
+  "description": "This is a sample grand stack app",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --exec babel-node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "GraphQL",
-    "Neo4j",
-    "neo4j-graphql.js",
-    "GRANDstack"
-  ],
+  "keywords": [],
   "author": "William Lyon",
   "license": "MIT",
   "dependencies": {
